@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Bula Mahendra
 
-<!--
-**mahi22524/mahi22524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year B.Tech Cyber Security | 🔐 Cybersecurity Enthusiast | 💻 Future Security Analyst
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔒 Passionate about Cyber Security, Ethical Hacking, and Threat Detection
+* 🤖 Building AI-powered security and fraud detection projects
+* 🛡️ Interested in Digital Forensics, Network Security, and Cloud Security
+* 📚 Currently learning Python, Java, Linux, and Security Tools
+* 🎯 Goal: Become a skilled Cyber Security Professional
+
+---
+
+## 📦 Featured Projects
+
+| Project                | Description                               | Tech          |
+| ---------------------- | ----------------------------------------- | ------------- |
+| 🛡️ ClaimWatch         | AI-Based Insurance Fraud Detection System | Python, ML    |
+| 🚨 Cyber Aid           | Smart Cyber Crime Reporting Portal        | Flask, Python |
+| 📱 APK Fraud Detection | Fraudulent Android App Detection using AI | Python, AI    |
+| 🎣 Phishing Detector   | Real-Time Phishing Website Detection      | Python        |
+
+---
+
+## 💻 Tech Stack
+
+| Category  | Technologies                                 |
+| --------- | -------------------------------------------- |
+| Languages | Python, Java, C                              |
+| Tools     | Git, GitHub, VS Code, Linux                  |
+| Domains   | Cyber Security, Ethical Hacking, AI Security |
+| Database  | MySQL                                        |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi22524\&show_icons=true\&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi22524\&layout=compact\&theme=dark)
+
+---
+
+📍 Hyderabad, India
+
+📧 [mahii22524@gmail.com](mailto:mahii22524@gmail.com)
