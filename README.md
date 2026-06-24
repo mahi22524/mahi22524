@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bula Mahendra
 
-🎓 2nd Year B.Tech Cyber Security | 🔐 Cybersecurity Enthusiast | 💻 Future Security Analyst
+🎓 3rd Year B.Tech Cyber Security | 🔐 Cybersecurity Enthusiast | 💻 Future Security Analyst
 
 ---
 
